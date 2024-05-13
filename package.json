@@ -1,0 +1,23 @@
+{
+  "name": "noda-build-aipowered-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/openai": "^0.0.28",
+    "advanced-calculator": "^1.1.1",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.1.37",
+    "openai": "^4.45.0",
+    "pdf-parse": "^1.1.1",
+    "youtube-transcript": "^1.2.1",
+    "youtubei.js": "^9.4.0"
+  }
+}
